@@ -1,0 +1,8 @@
+{
+  "number": 8,
+  "name": "Quiz app",
+  "slug": "quiz-app",
+  "level": "Beginner",
+  "description": "Create quizzes, score answers, and save results.",
+  "status": "planning"
+}
